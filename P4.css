@@ -1,0 +1,19 @@
+html{color:blue;
+background-color: white;}
+h1{
+    background-color: crimson;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 25px;
+    padding:50px;
+    
+    
+}
+h3{
+    text-align: center;
+    color: black;
+}
+pre{
+    background-color: deeppink;
+    color:aliceblue;
+}

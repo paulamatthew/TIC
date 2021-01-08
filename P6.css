@@ -1,0 +1,28 @@
+/*
+P6 CSS Hoja de Estilos
+Paula García Matthew Longworth
+Noviembre 2020
+*/
+html{
+    background-color: cadetblue;
+}
+
+
+.contenedor{
+    background-color: white;
+    border: 3px dotted black;
+    padding: 10px;
+    margin: 20px;
+    width: 55%;
+    margin: auto;
+}
+
+ol{
+   list-style: upper-roman;
+}
+    
+    ul{
+      list-style: circle;  
+    }
+    
+}
