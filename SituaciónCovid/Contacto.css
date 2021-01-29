@@ -1,0 +1,28 @@
+/*
+Contacto
+Enero 2021
+Paula y Matthew
+*/
+.fm{
+  display: flex; 
+    flex-direction: column;
+}
+.formulario{
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+.fm> *{
+    margin: 10px 0px 0px 0px;
+    padding: 15px;
+    border-radius: 10px;
+}
+body{
+    background-image: url(Covid.jpeg);
+background-position: center center;
+    background-size: cover;
+    height: 600px;
+}

@@ -1,0 +1,43 @@
+/*
+Situación Covid
+Enero 2021
+Paula García, Matthew Longworth
+*/
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.menuH a{
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    
+}
+.menuH a:hover{
+    background-color: white;
+    color: black;
+}
+body{
+    background-image: url(covid.jpg);
+background-position: center center;
+    background-size: cover;
+    height: 600px;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+p{
+      background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: aliceblue;
+    border-radius: 25px;
+    padding:50px;
+    font-family: 'Lobster', cursive;
+    
+}

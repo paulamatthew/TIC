@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacto</title>
+     <link rel="stylesheet" href="Contacto.css">
+</head>
+<body>
+    <div class="formulario">
+         <h1>Contacto</h1>
+         <form action="procesar.php" method="post" class="fm">
+            <input type="text" placeholder="Tu nombre" name="nombre">
+            <input type="email" placeholder="Correo electrónico" name="email">
+            <input type="tel" placeholder="Teléfono" name="teléfono">
+            <textarea name="area"  cols="20" rows="5" placeholder="Tu Mensaje">
+                
+            </textarea>
+            <select name="sexo">
+            <option value="masculino">masculino</option>
+            <option value="femenino">femenino</option>
+            </select>
+             <input type="submit" value="Enviar">
+         </form>
+         
+     </div>
+</body>
+</html>

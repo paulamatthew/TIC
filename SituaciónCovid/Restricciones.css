@@ -1,0 +1,23 @@
+/*
+Restricciones
+Enero 2021
+Matthew y Paula
+*/
+body{
+     text-align: center;
+    color: black;
+    background-image: url(covid.jpg);
+background-position: center center;
+    background-size: cover;
+    height: 600px;
+    
+}
+h3{
+    color: red;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+h1{
+    background-color: rgba(255, 255, 255, 0.5);
+}
