@@ -41,3 +41,16 @@ p{
     font-family: 'Lobster', cursive;
     
 }
+.logo{
+    width: 45px;
+    position: absolute;
+    left: 800px;
+    top: 4px;
+}
+main{
+    
+}
+h2{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+}
