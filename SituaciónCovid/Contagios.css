@@ -1,0 +1,36 @@
+/*
+Situación Covid
+Febrero 2021
+Matthew y Paula 
+*/
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(contagios%20covid.jpg);
+background-position: center center;
+    background-size: cover;
+    height: 600px;
+    }
+    h2{
+    font-size: 40px;
+     font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+p{
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+    border-radius: 40%;
+    padding: 7.5%
+    }
+img{
+    width: 80%;
+    margin: auto;
+    display: block;
+    margin-top: 35px;
+}
